@@ -1,0 +1,2 @@
+int agenda(char buf[]);
+
